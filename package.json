@@ -2,6 +2,7 @@
   "name": "wheather_checking",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vladyslavyarmolenko.github.io/Wheather_checking_React_API/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
