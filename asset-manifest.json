@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.98449132.chunk.css",
-    "main.js": "/static/js/main.a65154a2.chunk.js",
-    "main.js.map": "/static/js/main.a65154a2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ebda1548.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ebda1548.js.map",
-    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
-    "static/js/2.091b0b60.chunk.js": "/static/js/2.091b0b60.chunk.js",
-    "static/js/2.091b0b60.chunk.js.map": "/static/js/2.091b0b60.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2c9b02f25d6b766c36e62dcf0ea24aca.js": "/precache-manifest.2c9b02f25d6b766c36e62dcf0ea24aca.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.98449132.chunk.css.map": "/static/css/main.98449132.chunk.css.map",
-    "static/js/2.091b0b60.chunk.js.LICENSE.txt": "/static/js/2.091b0b60.chunk.js.LICENSE.txt"
+    "main.css": "/Wheather_checking_React_API/static/css/main.98449132.chunk.css",
+    "main.js": "/Wheather_checking_React_API/static/js/main.6213995e.chunk.js",
+    "main.js.map": "/Wheather_checking_React_API/static/js/main.6213995e.chunk.js.map",
+    "runtime-main.js": "/Wheather_checking_React_API/static/js/runtime-main.4386c893.js",
+    "runtime-main.js.map": "/Wheather_checking_React_API/static/js/runtime-main.4386c893.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Wheather_checking_React_API/static/css/2.2a86faee.chunk.css",
+    "static/js/2.091b0b60.chunk.js": "/Wheather_checking_React_API/static/js/2.091b0b60.chunk.js",
+    "static/js/2.091b0b60.chunk.js.map": "/Wheather_checking_React_API/static/js/2.091b0b60.chunk.js.map",
+    "index.html": "/Wheather_checking_React_API/index.html",
+    "precache-manifest.7e360e33caec77c1d77498ef27c58903.js": "/Wheather_checking_React_API/precache-manifest.7e360e33caec77c1d77498ef27c58903.js",
+    "service-worker.js": "/Wheather_checking_React_API/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Wheather_checking_React_API/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.98449132.chunk.css.map": "/Wheather_checking_React_API/static/css/main.98449132.chunk.css.map",
+    "static/js/2.091b0b60.chunk.js.LICENSE.txt": "/Wheather_checking_React_API/static/js/2.091b0b60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ebda1548.js",
+    "static/js/runtime-main.4386c893.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.091b0b60.chunk.js",
     "static/css/main.98449132.chunk.css",
-    "static/js/main.a65154a2.chunk.js"
+    "static/js/main.6213995e.chunk.js"
   ]
 }
